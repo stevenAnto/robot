@@ -1,11 +1,15 @@
 # Problema
 3 1
 2 4 5
+<center>
 
 **B. Closest to the left**
-
 *time limit per test* 1 second  
 *memory limit per test* 256 megabytes
+
+</center>
+
+
 
 inputstandard input  
 outputstandard output
@@ -23,7 +27,8 @@ The first line of the input contains integers n  and k (0<n,k≤106)
 **Output**  
 For each of the k  queries, print the maximum index of an array element not greater than the given one. If there are none, print 0.
 
-**Input**
+**Input**  
+
 5 5  
 3 3 5 8 9  
 2  

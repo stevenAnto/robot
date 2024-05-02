@@ -7,6 +7,8 @@
 *memory limit per test* 256 megabytes
 
 inputstandard input
+
+
 outputstandard output
 
 Given an array of n  numbers (1 -indexed), sorted in non-decreasing order, and k

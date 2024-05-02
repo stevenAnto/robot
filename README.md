@@ -1,13 +1,12 @@
 # Problema
 3 1
 2 4 5
-<center>
 
-**B. Closest to the left**
-*time limit per test* 1 second  
-*memory limit per test* 256 megabytes
 
-</center>
+**B. Closest to the left**  
+*time limit per test* 1 second    
+*memory limit per test* 256 megabytes  
+
 
 
 
@@ -37,7 +36,7 @@ For each of the k  queries, print the maximum index of an array element not grea
 1  
 10  
 
-**Output** 
+**Output**   
 0  
 2  
 4  

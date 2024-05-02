@@ -3,7 +3,8 @@
 2 4 5
 
 **B. Closest to the left**
-*time limit per test* 1 second
+
+*time limit per test* 1 second  
 *memory limit per test* 256 megabytes
 
 inputstandard input  

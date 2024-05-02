@@ -32,7 +32,12 @@ int main(){
       cout<<devueltoI+1<<"\n";
     }
     else if(devueltoI==0){
+      if(q<v[devueltoI]){
       cout<<0<<"\n";
+      }
+      else{
+        cout<<devueltoI+1<<"\n";
+      }
     }
     else{
       cout<<devueltoI+1<<"\n";

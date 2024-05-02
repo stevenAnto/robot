@@ -24,17 +24,17 @@ The first line of the input contains integers n  and k (0<n,k≤106)
 For each of the k  queries, print the maximum index of an array element not greater than the given one. If there are none, print 0.
 
 **Input**
-5 5
-3 3 5 8 9
-2
-4
-8
-1
-10
+5 5  
+3 3 5 8 9  
+2  
+4  
+8  
+1  
+10  
 
 **Output** 
-0
-2
-4
-0
-5
+0  
+2  
+4  
+0   
+5  
